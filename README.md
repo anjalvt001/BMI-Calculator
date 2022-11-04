@@ -1,2 +1,2 @@
-simple BMI Calculator using ReactJs
+Simple BMI Calculator using ReactJs
 
